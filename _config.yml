@@ -1,0 +1,22 @@
+# Build settings
+markdown: kramdown
+highlighter: rouge
+gems: [rouge, kramdown]
+
+# Site settings
+title: "Marcel Halpert"
+description: ""
+
+email: marhalpert@gmail.com
+logo: ""
+
+name: 'Marcel Halpert'
+author: 'Marcel Halpert'
+author_image: ""
+author_biography: ""
+
+url: "http://marhalpert.github.io" # the base hostname & protocol for your site
+baseurl: ""
+
+twitter_username: marhalpert
+description: ""
